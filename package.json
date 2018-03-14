@@ -10,9 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "@types/react": "^16.0.40",
+    "@types/react-beautiful-dnd": "^2.3.0",
     "@types/react-dom": "^16.0.4",
     "moment": "^2.21.0",
     "react": "^16.2.0",
+    "react-beautiful-dnd": "^6.0.0",
     "react-dom": "^16.2.0"
   },
   "devDependencies": {
